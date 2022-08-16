@@ -1,13 +1,9 @@
 <h1 align="center">Olá! Eu sou a Debora Matos</h1>
 <h3 align="center">Apaixonada por transformar dados em insights para tomada de decisão.</h3>
 
-- 👯 Graduada em **Engenharia Civil e Licenciatura em Matemática.**
-
 - 🌱 Tenho estudado **Machine Learning.**
 
 - 🔭 Atualmente procuro oportunidade na **área de dados.**
-
-- 💬 Me pergunte sobre **SQL, Python, PowerBI e Excel.**
 
 - 📫 Meu contato: **deboraomatos@gmail.com**
 
