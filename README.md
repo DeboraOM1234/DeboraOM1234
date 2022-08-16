@@ -1,5 +1,11 @@
-<h1 align="center">Olá! Seja bem-vindo(a)</h1>
+<h1 align="center">Olá! Seja bem-vindo(a) Debora Matos</h1>
 <h3 align="center">Apaixonada por transformar dados em insights para tomada de decisão.</h3>
+
+- 👯 Formada em Engenharia Civil e Licenciatura em Matemática **.**
+
+- 🌱 Tenho estudado Machine Learning **.**
+
+- 🔭 Atualmente procuro oportunidade na área de dados. **.**
 
 - 💬 Me pergunte sobre **SQL, Python, PowerBI e Excel.**
 
