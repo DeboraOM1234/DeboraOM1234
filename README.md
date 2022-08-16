@@ -1,7 +1,7 @@
-<h1 align="center">Olá! Seja bem-vindo(a)</h1>
+<h1 align="center">Olá! Eu sou a Debora Matos</h1>
 <h3 align="center">Apaixonada por transformar dados em insights para tomada de decisão.</h3>
 
-- 👯 Formada em **Engenharia Civil e Licenciatura em Matemática.**
+- 👯 Graduada em **Engenharia Civil e Licenciatura em Matemática.**
 
 - 🌱 Tenho estudado **Machine Learning.**
 
