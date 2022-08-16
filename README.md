@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Seja bem-vindo(a) Debora Matos</h1>
+<h1 align="center">Olá! Seja bem-vindo(a)</h1>
 <h3 align="center">Apaixonada por transformar dados em insights para tomada de decisão.</h3>
 
 - 💬 Me pergunte sobre **SQL, Python, PowerBI e Excel.**
